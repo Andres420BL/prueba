@@ -1,7 +1,4 @@
 
-
-inventario = {}
-
 def agregar_o_actualizar_producto():
     codigo = input("Ingrese el código del producto: ")
     nombre = input("Ingrese el nombre del producto: ")
